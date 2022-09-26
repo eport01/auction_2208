@@ -19,6 +19,5 @@ class Item
 
   def close_bidding
     @closed = true 
-
   end
 end
